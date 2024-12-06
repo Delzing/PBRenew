@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SourceControlTraining"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d10f554c-67b6-4c2c-abcf-1fe27b0a490c"
+  }
+}
